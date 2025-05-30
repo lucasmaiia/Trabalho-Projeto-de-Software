@@ -1,6 +1,6 @@
 # 💰 Domus Finanças
 
-Sistema de controle financeiro pessoal desenvolvido como parte do trabalho acadêmico da disciplina de Engenharia de Software na **PUC Minas**.
+Sistema de controle financeiro pessoal desenvolvido como parte do trabalho acadêmico da disciplina de Projeto de Software do curso de Engenharia de Software na **PUC Minas**.
 
 ## 📌 Objetivo
 
@@ -28,13 +28,14 @@ O **Domus Finanças** tem como propósito auxiliar usuários no gerenciamento de
 
 ## 🗂️ Casos de Uso
 
-| Código  | Nome                                   |
-|---------|----------------------------------------|
-| UC-01   | Realizar Login                         |
-| UC-02   | Cadastrar Receita ou Despesa           |
-| UC-03   | Visualizar Relatório Financeiro        |
-| UC-04   | Definir Metas Financeiras              |
-| UC-05   | Gerenciar Usuários (Administrador)     |
+| **ID**   | **Nome do Caso de Uso**                | **Atores Envolvidos**     | **Descrição**                                                                 |
+|----------|----------------------------------------|----------------------------|-------------------------------------------------------------------------------|
+| UC-01    | Realizar Login                         | Usuário, Administrador     | Permite que o usuário acesse o sistema utilizando e-mail e senha.            |
+| UC-02    | Cadastrar Receita ou Despesa           | Usuário                    | Permite o registro de valores financeiros com categoria, data e valor.       |
+| UC-03    | Visualizar Relatório Financeiro        | Usuário                    | Exibe um resumo gráfico e textual dos lançamentos por período.               |
+| UC-04    | Definir Metas Financeiras              | Usuário                    | Permite configurar um valor de meta mensal e acompanhar o progresso.         |
+| UC-05    | Gerenciar Usuários                     | Administrador              | Permite visualizar, bloquear ou excluir usuários do sistema.                 |
+
 
 ---
 
@@ -51,8 +52,9 @@ O **Domus Finanças** tem como propósito auxiliar usuários no gerenciamento de
 
 ## 📄 Documentação
 
-Este projeto foi documentado com base no template acadêmico fornecido pela PUC Minas e contém:
+A documentação desse projeto contém: 
 
+- Introdução
 - Modelagem de domínio e requisitos
 - Diagramas estruturais e comportamentais
 - Esquema de banco de dados
