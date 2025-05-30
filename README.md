@@ -61,6 +61,17 @@ Este projeto foi documentado com base no template acadêmico fornecido pela PUC 
 
 ---
 
+
+## 📄 Visualizar Documento
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1WTV904RK0-PatpvUJBq0Gh6QiA6yljXA2PtROfzEu0o/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar%20Documento-Domus%20Finan%C3%A7as-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Abrir Documento Google Docs">
+  </a>
+</p>
+
+----
+
 ## 👨‍🎓 Autores
 
 Lucas Maia Rocha  
