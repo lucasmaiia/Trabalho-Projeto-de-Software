@@ -74,7 +74,7 @@ A documentação desse projeto contém:
 
 ----
 
-## Diagramas
+## 📊 Diagramas
 ### Diagrama de Casos de Uso
 
 <img src="Diagramas/DIAGRAMA DE CASO DE USO (Domus Finanças).jpg" alt="DCU" width="600"/>
