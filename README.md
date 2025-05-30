@@ -74,6 +74,41 @@ A documentação desse projeto contém:
 
 ----
 
+## Diagramas
+### Diagrama de Casos de Uso
+
+<img src="Diagramas/DIAGRAMA DE CASO DE USO (Domus Finanças).jpg" alt="DCU" width="600"/>
+
+
+### Diagrama de Classes
+
+<img src="Diagramas/Class Diagram Template Domus.jpg" alt="DClasses" width="600"/>
+
+### Diagrama de Comunicação
+
+<img src="Diagramas/UML Communication Diagram Domus.jpg" alt="DComunicacao" width="600"/>
+
+### Diagramas de Sequencia
+
+<img src="Diagramas/UML Sequence Diagram Domus.jpg" alt="DSequencia" width="600"/>
+<img src="Diagramas/DiagramaSequencia.png" alt="DSequencia" width="600"/>
+
+### Diagrama de Estados
+
+<img src="Diagramas/UML State Diagram Domus.jpg" alt="DEstados" width="600"/>
+
+### Diagrama de Componentes
+
+<img src="Diagramas/diagramaComponentes.png" alt="DComponentes" width="600"/>
+
+### Diagrama de Implantação
+
+<img src="Diagramas/diagramaImpantacao.png" alt="DImplantacao" width="600"/>
+
+
+
+
+
 ## 👨‍🎓 Autores
 
 Lucas Maia Rocha  
